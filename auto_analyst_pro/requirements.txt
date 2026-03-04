@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-genai
+matplotlib
+joblib
+python-dotenv
+scikit-learn
+reportlab
